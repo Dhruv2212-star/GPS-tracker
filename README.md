@@ -59,3 +59,5 @@ Project description- a small pocket sized instrument that uses GPS module paired
 
 <img width="683" height="545" alt="png" src="https://github.com/user-attachments/assets/63d5485b-5c42-443f-88c0-e3177899e244" />
 
+# Final product 
+<img width="845" height="416" alt="image" src="https://github.com/user-attachments/assets/8393a0a1-ffaf-44f6-8706-67533fa1fc0f" />
