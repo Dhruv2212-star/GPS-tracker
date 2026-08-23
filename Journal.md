@@ -37,9 +37,13 @@ Kicad crashed and i had to redo the schematic work and ENTIRE PCB routing once a
 <img width="400" height="298" alt="image" src="https://github.com/user-attachments/assets/152c7bc1-5753-4a4f-9ed5-9f8747eb73c3" /> 
 <img width="690" height="529" alt="image" src="https://github.com/user-attachments/assets/b4aabf88-462c-4687-8469-306d437143c2" />
 
+# Assembly with casings for the PCB (2hr 7 mins)
+https://lapse.hackclub.com/timelapse/lmnxHDu2uIR4  
+<img width="845" height="416" alt="image" src="https://github.com/user-attachments/assets/8393a0a1-ffaf-44f6-8706-67533fa1fc0f" />
 
-
-
+# Firmware Help  (29mins)
+https://lapse.hackclub.com/timelapse/8cMFgWjOZsth  
+searched through the code and made the firmware help section in Readme file.  
 
 
 
